@@ -7,9 +7,9 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "5LettersSolver.dll": "sha256-O7A1y8QD2YsowKEfdEPNh7Sc2BMwFKNUKPo93YZK7Lk=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-gwd6UEkuuSYakm14hJ4gGdGOo30SlQ647LZQxKbjegE=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-EV0lQqqnjL3wzvbuKB5tZIID3vQ1DFKZ4r9Z3Opy8oQ=",
+      "5LettersSolver.dll": "sha256-MKrNDwIhaLZOLVmS1wRcwzMLoyCe92HC7UMZZnf\/t2U=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-0hIkv8yQqcogs7dYysfyV8aemvSxwprWnofO0GHBO+w=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-3xqwQLYZ4rCkUkKGYDg6jRolNlQdIsZCZKa6C7q+PGo=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-RGNK3SmL2jrMz4TjpucltG13Yncg1AJtGi8qSVRahl8=",
       "Microsoft.Data.Sqlite.dll": "sha256-oTzv+bEhRyuAFuR8MJ1XD1qrXchSfChlzgK7shBH6VA=",
       "Microsoft.EntityFrameworkCore.Abstractions.dll": "sha256-wk7w5r083pd1j6eFB+X\/RtEnikBo11T6+fybzpWHbBY=",
