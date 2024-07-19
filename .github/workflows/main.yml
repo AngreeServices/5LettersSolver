@@ -29,3 +29,11 @@ jobs:
       with:
         branch: gh-pages
         folder: release/wwwroot
+        
+      # меняем '/' на '/<НазваниеРепозитория>/'
+    - name: Change base-tag in index.html from / to 5LettersSolver
+      run: sed -i 's/<base href="\/" \/>/<base href="\/5LettersSolver\/" \/>/g' release/wwwroot/index.html
+
+      # отключаем jekyll
+    - name: Add .nojekyll file
+      run: touch release/wwwroot/.nojekyll
